@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.artimeena0723coder.stickman",
+    "sha256_cert_fingerprints": ["AF:49:F2:17:2D:F8:11:EB:3B:E0:E5:C6:B8:E8:9F:FC:DF:30:BD:17:17:10:BC:A4:CC:B7:1F:72:A1:33:55:32"]
+  }
+}]
